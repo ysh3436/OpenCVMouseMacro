@@ -144,5 +144,12 @@ namespace opencvtest
         {
             System.Diagnostics.Process.Start(@"iexplore.exe", Application.StartupPath + "\\Img\\license.html");
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Bitmap bmp;
+            bmp = new Bitmap(Application.StartupPath + "\\Img\\" + comboBox1.Text);
+            pictureBox2.Image = (Image)bmp;
+        }
     }
 }

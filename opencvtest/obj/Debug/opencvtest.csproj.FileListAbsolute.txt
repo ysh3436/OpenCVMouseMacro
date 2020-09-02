@@ -48,3 +48,28 @@ D:\ENC\Source\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.csprojResolveAsse
 D:\ENC\Source\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.Form1.resources
 D:\ENC\Source\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.Properties.Resources.resources
 D:\ENC\Source\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.csproj.GenerateResource.Cache
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\opencvtest.exe.config
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.exe
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\opencvtest.exe
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\opencvtest.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Blob.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Extensions.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.xml
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Blob.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Blob.xml
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.Extensions.xml
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.csprojResolveAssemblyReference.cache
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.Form1.resources
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.Properties.Resources.resources
+D:\ENC\Personal Project\OpenCVMouseMacro\opencvtest\obj\Debug\opencvtest.csproj.GenerateResource.Cache
